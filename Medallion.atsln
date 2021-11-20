@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "Medallion", "Medallion.cppproj", "{C51D2C4E-9672-452A-A427-BB8AAB7347F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C51D2C4E-9672-452A-A427-BB8AAB7347F5}.Debug|ARM.ActiveCfg = Debug|ARM
+		{C51D2C4E-9672-452A-A427-BB8AAB7347F5}.Debug|ARM.Build.0 = Debug|ARM
+		{C51D2C4E-9672-452A-A427-BB8AAB7347F5}.Release|ARM.ActiveCfg = Release|ARM
+		{C51D2C4E-9672-452A-A427-BB8AAB7347F5}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
