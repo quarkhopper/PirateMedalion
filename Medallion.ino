@@ -1,5 +1,5 @@
 //////////////////////////////////////////////////////////////////////////
-// Name:       ZombieScramble.ino
+// Name:       Medalion.ino
 // Created:	10/2/2018 3:51:36 PM
 // Author:     quarkhopper
 //
