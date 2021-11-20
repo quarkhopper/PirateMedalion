@@ -1,5 +1,5 @@
 //////////////////////////////////////////////////////////////////////////
-// Name:       Medalion.ino
+// Name:       Medallion.ino
 // Created:	10/2/2018 3:51:36 PM
 // Author:     quarkhopper
 //
